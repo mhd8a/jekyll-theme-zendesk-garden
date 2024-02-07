@@ -1,5 +1,6 @@
 title: Zendesk Garden Jekyll Theme
 description: A Jekyll theme using the Zendesk Garden design patterns
+baseurl: /jekyll-theme-zendesk-garden
 
 permalink: pretty
 
