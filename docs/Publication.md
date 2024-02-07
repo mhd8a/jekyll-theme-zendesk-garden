@@ -7,6 +7,6 @@ Publishing in StackEdit makes it simple for you to publish online your files. On
 
 Before starting to publish, you must link an account in the Publish sub-menu.
 
-![image](./files.png)
+![image](image/files.png)
 
 ![download](../assets/images/download.png)
