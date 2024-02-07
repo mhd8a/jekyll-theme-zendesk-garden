@@ -10,3 +10,5 @@ Before starting to publish, you must link an account in the Publish sub-menu.
 ![image](image/files.png)
 
 ![download](/assets/images/download.png)
+
+![download one](./image/files.png)
