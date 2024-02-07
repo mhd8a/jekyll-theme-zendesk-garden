@@ -15,3 +15,5 @@ sidebar:
       - relative-nav
       - additional-config
   - development
+  - publication
+  - synchronization
